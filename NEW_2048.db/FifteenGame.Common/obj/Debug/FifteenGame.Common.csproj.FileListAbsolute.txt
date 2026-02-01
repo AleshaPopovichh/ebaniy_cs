@@ -1,0 +1,18 @@
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\bin\Debug\FifteenGame.Common.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\bin\Debug\FifteenGame.Common.pdb
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\bin\Debug\Ninject.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\bin\Debug\Ninject.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\obj\Debug\FifteenGame.Common.csproj.AssemblyReference.cache
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\obj\Debug\FifteenGame.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\obj\Debug\FifteenG.8F38DF4D.Up2Date
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\obj\Debug\FifteenGame.Common.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\obj\Debug\FifteenGame.Common.pdb
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\bin\Debug\FifteenGame.Common.dll
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\bin\Debug\FifteenGame.Common.pdb
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\bin\Debug\Ninject.dll
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\bin\Debug\Ninject.xml
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\obj\Debug\FifteenGame.Common.csproj.AssemblyReference.cache
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\obj\Debug\FifteenGame.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\obj\Debug\FifteenG.8F38DF4D.Up2Date
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\obj\Debug\FifteenGame.Common.dll
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Common\obj\Debug\FifteenGame.Common.pdb
