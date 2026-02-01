@@ -1,0 +1,71 @@
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.Wpf.exe.config
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.Wpf.exe
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.Wpf.pdb
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.Business.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.Common.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.DataAccess.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Ninject.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Npgsql.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Buffers.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Memory.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Text.Json.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Threading.Channels.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.ValueTuple.dll
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.Business.pdb
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.Business.dll.config
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.Common.pdb
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.DataAccess.pdb
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\FifteenGame.DataAccess.dll.config
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Ninject.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\Npgsql.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Buffers.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Memory.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Text.Json.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Threading.Channels.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\bin\Debug\System.ValueTuple.xml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.csproj.AssemblyReference.cache
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\Views\UserLoginWindow.g.cs
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\App.g.cs
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf_MarkupCompile.cache
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf_MarkupCompile.lref
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\Views\UserLoginWindow.baml
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.g.resources
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.Properties.Resources.resources
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.csproj.GenerateResource.cache
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenG.60025469.Up2Date
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.exe
+C:\Users\Vladi\Desktop\CSharpCollege-master\Projects.23.2.23.3\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.pdb
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.csproj.AssemblyReference.cache
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.exe.config
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\Views\UserLoginWindow.g.cs
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\App.g.cs
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf_MarkupCompile.cache
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf_MarkupCompile.lref
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.exe
+C:\Users\Vladi\Desktop\C# проекты\9. Game DB\ADO.NET\FifteenGame.Wpf\FifteenGame.Wpf\obj\Debug\FifteenGame.Wpf.pdb
