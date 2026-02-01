@@ -7,6 +7,12 @@ namespace FifteenGame.Common.BusinessModels
         public const int RowCount = 4;
         public const int ColumnCount = 4;
 
+        public int Id { get; set; }
+
+        public int UserId { get; set; }
+
+        public int MoveCount { get; set; }
+
         public int Score { get; set; }
 
         private readonly int[,] _cells = new int[RowCount, ColumnCount];
@@ -19,6 +25,7 @@ namespace FifteenGame.Common.BusinessModels
 
         public void Clear()
         {
+            MoveCount = 0;
             Score = 0;
             Array.Clear(_cells, 0, _cells.Length);
         }

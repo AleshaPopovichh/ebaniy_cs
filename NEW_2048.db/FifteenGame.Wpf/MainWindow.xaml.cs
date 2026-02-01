@@ -1,20 +1,8 @@
 ﻿using FifteenGame.Common.BusinessModels;
 using FifteenGame.Wpf.ViewModels;
 using FifteenGame.Wpf.Views;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace FifteenGame.Wpf
 {
@@ -30,18 +18,12 @@ namespace FifteenGame.Wpf
             InitializeComponent();
         }
 
-        private void Grid_MouseDown(object sender, MouseButtonEventArgs e)
-        {
-            var tag = (MoveDirection)((FrameworkElement)sender).Tag;
-            ViewModel.MakeMove(tag, OnGameFinished);
-        }
-
         private void OnGameFinished()
         {
-            if (MessageBox.Show("Игра окончена. Повторить?", "Поздравляем!", MessageBoxButton.YesNo, MessageBoxImage.Information) ==
+            if (MessageBox.Show("Игра окончена. Повторить?", "2048", MessageBoxButton.YesNo, MessageBoxImage.Information) ==
                 MessageBoxResult.Yes)
             {
-                ViewModel.Initialize();
+                ViewModel.ReInitialize();
             }
         }
 
@@ -50,6 +32,36 @@ namespace FifteenGame.Wpf
             var dialog = new UserLoginWindow();
             dialog.ViewModel.MainViewModel = ViewModel;
             dialog.ShowDialog();
+            Focus();
+        }
+
+        private void Window_KeyDown(object sender, KeyEventArgs e)
+        {
+            MoveDirection direction;
+            switch (e.Key)
+            {
+                case Key.Up:
+                case Key.W:
+                    direction = MoveDirection.Up;
+                    break;
+                case Key.Down:
+                case Key.S:
+                    direction = MoveDirection.Down;
+                    break;
+                case Key.Left:
+                case Key.A:
+                    direction = MoveDirection.Left;
+                    break;
+                case Key.Right:
+                case Key.D:
+                    direction = MoveDirection.Right;
+                    break;
+                default:
+                    return;
+            }
+
+            ViewModel.MakeMove(direction, OnGameFinished);
+            e.Handled = true;
         }
     }
 }
